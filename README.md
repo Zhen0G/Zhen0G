@@ -18,11 +18,8 @@
 
 ### 🧠 About Me
 
-🎓 MS in Information Systems @ Santa Clara University  
-🧪 Focused on NLP, LLMs, fine-tuning, and AI agents  
-🔬 Published ML paper on Twitter sentiment classification (ICSPML 2023)  
-🧱 Backend enthusiast: FastAPI, Spring Boot, Redis, MongoDB  
-🌍 Passionate about building intelligent tools with real-world impact
+🎓 MS in Information Systems @Santa Clara University  
+🎓 BS in Engine Engineering @SJTU
 
 ---
 
