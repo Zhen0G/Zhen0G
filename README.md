@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Zander Gong
 
-<!--
-**Zhen0G/Zhen0G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Machine Learning Engineer | NLP | LLMs  
+🌱 I’m currently working on fine-tuning models and building intelligent tools  
+📫 Reach me at [zgong2@scu.edu](mailto:zgong2@scu.edu)  
+🔗 [My Portfolio Website](https://your-vercel-site.vercel.app)  
 
-Here are some ideas to get you started:
+## 🛠 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/-Python-blue)
+![PyTorch](https://img.shields.io/badge/-PyTorch-red)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-yellow)
+![FastAPI](https://img.shields.io/badge/-FastAPI-teal)
+
+## 📈 GitHub Stats
+
+![Zander's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhen0G&show_icons=true&theme=default)
