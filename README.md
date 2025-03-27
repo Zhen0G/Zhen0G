@@ -11,7 +11,13 @@
 </p>
 
 <p align="center">
+  <b>Visitor count</b><br>
   <img src="https://komarev.com/ghpvc/?username=Zhen0G&label=Profile+Views&color=blue&style=flat" alt="Zhen0G" />
+</p>
+
+<p align="center"> 
+  <b>Visitor count</b><br>
+  <img src="https://profile-counter.glitch.me/kx-Huang/count.svg" />
 </p>
 
 ---
