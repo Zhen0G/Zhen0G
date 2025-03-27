@@ -1,10 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Zander Gong</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;LLMs+%7C+Python+%7C+Full-stack+Dev;OpenAI+%7C+Hugging+Face+%7C+Spring+Boot" alt="Typing SVG" />
-</p>
-
-<p align="center">
   📧 <a href="mailto:zgong2@scu.edu">zgong2@scu.edu</a> • 
   🔗 <a href="https://linkedin.com/in/zhengong-scu">LinkedIn</a> • 
   💻 <a href="https://github.com/Zhen0G">GitHub</a>
@@ -27,6 +23,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/-HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black"/>
@@ -42,9 +40,19 @@
 ### 💼 Featured Projects
 
 - 💬 **EasyChat** – Real-time chat backend using Spring Boot + Netty + Redis  
+  Built a scalable messaging system for 10K+ users with JWT auth and Redis session storage.
+
+- 🎲 **BoardGameHub** – Microservices-based board game rental system  
+  Full-stack app using Flask, Node.js, PostgreSQL, MongoDB, and a responsive UI with Bootstrap & jQuery.
+
 - 📊 **Financial QA Bot** – Built with RoBERTa, Phi-2, Streamlit, and Hugging Face  
-- 🧠 **Resume Optimizer** – AI-assisted resume tool (OpenAI GPT + FastAPI + React)  
-- 🧪 **Twitter Sentiment Classifier** – Published work with ANN, TF-IDF, PCA pipeline  
+  Performs news sentiment analysis, summarization, and question answering.
+
+- 🧠 **Resume Optimizer** – AI-powered job-tailored resume tool  
+  Uses OpenAI GPT, FastAPI, and React to generate resume content from job descriptions.
+
+- 🧪 **Twitter Sentiment Classifier** – Published research project (ICSPML 2023)  
+  Used TF-IDF, PCA, ANN, and SVM to improve classification accuracy by 12%.
 
 ---
 
