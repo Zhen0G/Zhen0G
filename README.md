@@ -37,25 +37,6 @@
 
 ---
 
-### 💼 Featured Projects
-
-- 💬 **EasyChat** – Real-time chat backend using Spring Boot + Netty + Redis  
-  Built a scalable messaging system for 10K+ users with JWT auth and Redis session storage.
-
-- 🎲 **BoardGameHub** – Microservices-based board game rental system  
-  Full-stack app using Flask, Node.js, PostgreSQL, MongoDB, and a responsive UI with Bootstrap & jQuery.
-
-- 📊 **Financial QA Bot** – Built with RoBERTa, Phi-2, Streamlit, and Hugging Face  
-  Performs news sentiment analysis, summarization, and question answering.
-
-- 🧠 **Resume Optimizer** – AI-powered job-tailored resume tool  
-  Uses OpenAI GPT, FastAPI, and React to generate resume content from job descriptions.
-
-- 🧪 **Twitter Sentiment Classifier** – Published research project (ICSPML 2023)  
-  Used TF-IDF, PCA, ANN, and SVM to improve classification accuracy by 12%.
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -68,5 +49,4 @@
 ### 🎭 Fun Facts
 
 - Was head of the university drama troupe 🎬  
-- Enjoys debugging more than writing new code 😄  
-- Dreams of building intelligent agents that collaborate like humans 🤖
+- Enjoys bouldering & looking for TR partner 🧗
